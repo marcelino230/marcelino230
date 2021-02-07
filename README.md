@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**marcelino230/marcelino230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Marcelino Oktaviansyah you can call me marcel! 👋
 
 Here are some ideas to get you started:
 
