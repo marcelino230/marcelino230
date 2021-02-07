@@ -7,6 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/top-langs/api?username=marcelino230&theme=dark&hide_langs_below=1">
+<a href="https://github.com/marcelino230">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelino230&theme=dark&hide_langs_below=1" />
 <img src="https://github-readme-stats.vercel.app/api?username=marcelino230&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelino230&theme=tokyonight">
