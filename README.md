@@ -3,7 +3,7 @@
 - 🔭 I’m currently collagers on Nasional University at south Jakarta, Indonesia
 - 🌱 I’m currently learning reactjs,java
 - 💬 Ask me about html,css,js
-- 📫 How to reach me: <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcel.okta)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
