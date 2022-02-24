@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently collage on Nasional University at South Jakarta, Indonesia
 - 🌱 I’m currently learning go
-- 💬 Ask me about html,css,js,php, reactjs, codeigniter, laravel
+- 💬 Ask me about html,css,js,php, reactjs, codeigniter, laravel, Expressjs, ASP.net, VB.net .
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcel.okta)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
