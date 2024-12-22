@@ -1,4 +1,4 @@
-### Hi there, I'm Marcelino Oktaviansyah you can call me marcel! 👋
+### Hi there, I'm Marcelino Oktaviansyah you can call me Okta! 👋
 
 - 🔭 I’m currently college on Nasional University at South Jakarta, Indonesia
 - 🌱 I’m currently learning go
