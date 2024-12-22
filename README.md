@@ -3,5 +3,3 @@
 - 🔭 I’m currently college on Nasional University at South Jakarta, Indonesia
 - 🌱 I’m currently learning go
 - 💬 Ask me about html,css,js,php, reactjs, codeigniter, laravel, Expressjs, ASP.net, VB.net .
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcel.okta)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelino230&theme=dark&hide_langs_below=1" /> 
